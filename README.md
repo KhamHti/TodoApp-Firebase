@@ -1,4 +1,4 @@
-# npm i react-native-vector-icons
+## npm i react-native-vector-icons
 
 npm i fire base
 npm install @react-navigation/native
